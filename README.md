@@ -1,1 +1,2 @@
-# Pro-C75-Wily-Authentication
+# searchBar
+Added search bar to the wily App
